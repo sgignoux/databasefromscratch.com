@@ -6,7 +6,7 @@ draft: false
 
 Database systems are ubiquitous. Every developer will use one at some point. Despite their widespread use, few developers seem to have a clean conceptual model of how they work and have only limited knowledge of how to make the best use of them. I am certainly one of them.
 
-In order to fix that, I want to see if it is possible to build a simple, yet realistic, database system from scratch. Although there are many resources in the internet (see list below), I couldn't find a book doing just that: building from the ground up with actual code and not too much theory. Sure I could go to look at the source code of SQLlite or PostgreSQL, but the key elements would be lost in all the features. How would I understand the key tradeoffs and design decisions? 
+In order to fix that, I want to see if it is possible to build a simple, yet realistic, database management system from scratch. Although there are many resources in the internet (see list below), I couldn't find a book doing just that: building from the ground up with actual code and not too much theory. Sure I could go to look at the source code of SQLlite or PostgreSQL, but the key elements would be lost in all the features. How would I understand the key tradeoffs and design decisions? 
 
 Ideally, this should start from the basic I/O operation offered by the operating system and go up to running SQL queries, with concurrency and transaction support. It should be developed cleanly, with lots of tests and benchmarking.
 
