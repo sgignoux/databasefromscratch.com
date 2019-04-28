@@ -1,0 +1,4 @@
+baseURL = "http://databasefromscratch.com/"
+languageCode = "en-us"
+title = "Build a database from scratch"
+theme = "basics"
