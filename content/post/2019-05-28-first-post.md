@@ -1,6 +1,6 @@
 ---
 title: "Introduction: building a database system from scratch"
-date: 2019-05-28T07:09:00+00:00
+date: 2019-05-28T00:00:00+00:00
 draft: false
 ---
 
